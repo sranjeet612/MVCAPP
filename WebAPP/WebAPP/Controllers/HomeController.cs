@@ -9,7 +9,8 @@ namespace WebAPP.Controllers
     public class HomeController : Controller
     {
         public ActionResult Index()
-        {  
+        {
+            string s = "Ranjeet Singh";
             return View();
         }
 
