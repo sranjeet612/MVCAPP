@@ -10,8 +10,6 @@ namespace WebAPP.Controllers
     {
         public ActionResult Index()
         {
-            string s = "Ranjeet Singh";
-            string s1 = "developer";
             return View();
         }
 
