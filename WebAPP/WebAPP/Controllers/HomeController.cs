@@ -10,7 +10,6 @@ namespace WebAPP.Controllers
     {
         public ActionResult Index()
         { 
-
             return View();
         }
 
